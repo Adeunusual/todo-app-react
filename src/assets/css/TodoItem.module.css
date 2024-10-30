@@ -1,0 +1,29 @@
+.itemContainer {
+  width: 100%;
+  color: #780000;
+  font-size: 20px;
+  margin: 0 auto;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.itemName {
+  font-weight: bold;
+  padding: 20px;
+}
+.delete_btn {
+  padding: 12px 20px;
+  border: none;
+  background-color: #c1121f;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.line {
+  border: 1px solid #f0f0f0;
+}
+.completed {
+  text-decoration: line-through;
+}

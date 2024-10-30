@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 5rem;
+  color: #669bbc;
+  background-color: #003049;
+}
+.logo {
+  width: 190px;
+  height: 60px;
+}
+.logo img {
+  object-fit: cover;
+}
+.header_brand {
+  margin-top: 10px;
+}

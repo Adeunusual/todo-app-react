@@ -1,0 +1,13 @@
+.tasks_status {
+  width: 300px;
+  color: #fff;
+  background-color: #780000;
+  position: fixed;
+  bottom: 3.1rem;
+  right: 0;
+}
+.completed,
+.total {
+  padding: 12px 20px;
+  color: #fff;
+}
